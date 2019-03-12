@@ -75,9 +75,9 @@ https://assetstore.unity.com/packages/tools/animation/final-ik-142902.
 ## How to Do SSH Connection
 1. Install Cygwin.
 2. Open Cygwin, and create OpenSSH key.
-3. Set up for becoming a client of NII server using a public key.
+3. Set up for becoming a client of the server using a public key.
 4. Install Teraterm.
-5. Open Teraterm, and connect to server (socio3.iir.nii.ac.jp) using a secret key.
+5. Open Teraterm, and connect to the server using a secret key.
 6. Click 'SSH Transfer' in the Settings, and add 'local 53306, remote 3306'.
 
 
