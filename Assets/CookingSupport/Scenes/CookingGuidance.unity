@@ -4026,7 +4026,7 @@ MonoBehaviour:
   mySqlIP: localhost
   mySqlPort: 3306
   mySqlUsername: root
-  mySqlPassword: password
+  mySqlPassword: robotgroup
 --- !u!4 &1431739831
 Transform:
   m_ObjectHideFlags: 0
@@ -4826,7 +4826,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000022339987}
+  m_AnchoredPosition: {x: 0, y: -0.00008747518}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1662301659
@@ -4956,8 +4956,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 947656160}
   m_HandleRect: {fileID: 947656159}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 0.99999994
+  m_Value: 1
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

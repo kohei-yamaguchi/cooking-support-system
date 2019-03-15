@@ -5,11 +5,22 @@ This is a Unity project of the Cooking Support System.
 ## Prerequisites
 
 - OS: Windows 10
-- Unity version: 2017.3.1
+- Unity version: 2017.3.1f1
 - MySQL version: 8.0.15
-
+- PC: VR Ready (https://ocul.us/compat-tool)
+- Device: Oculus Rift CV1 and Touch
 
 ## How to Set Up
+
+### Install Unity
+1. Download Unity 2017.3.1 installer from the following link.
+https://unity3d.com/jp/get-unity/download/archive
+2. Install Unity 2017.3.1f1.
+
+### Install Oculus Software
+1. Download Oculus Rift software from the following link.
+https://www.oculus.com/setup/
+2. Install Oculus software.
 
 ### Import Oculus Utilities for Unity
 
@@ -23,18 +34,15 @@ https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/1.24
 7. Click [Yes] on "Update Oculus Utilities Plugin" window.
 8. Click [Restart] on "Restart Unity" window.
 
-
 ### Import Final IK
 
 1. Purchase "Final IK" from the following link.  
 https://assetstore.unity.com/packages/tools/animation/final-ik-142902. 
 2. Import Final IK into this project with Unity.
 
-
 ### Import executable file and dll for TTS
 1. Prepare "ConsoleSimpleTTS.exe" and "Interop.SpeechLib.dll", following the repository: https://github.com/PartnerRobotChallengeVirtual/console-simple-tts
 2. Copy those files to the [TTS] folder in the same directory as README.md.
-
 
 ### Set Up MySQL Database
 
